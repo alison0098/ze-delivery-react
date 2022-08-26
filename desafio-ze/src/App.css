@@ -49,3 +49,13 @@ footer {
   color: white;
   text-align: center;
 }
+
+header {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: center;
+}

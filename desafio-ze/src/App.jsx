@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <header>
         <a href="https://www.ze.delivery/" target="_blank">
-          <img src="/ze-logo.svg" className="logo" alt="Zé Delivery" />
+          <img src="/ze-logo-completo.avif" className="logo" alt="Zé Delivery" />
         </a>
       </header>
       <h1>Zé Delivery</h1>
