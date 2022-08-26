@@ -36,9 +36,6 @@
   padding: 2em;
 }
 
-.read-the-docs {
-  color: #888;
-}
 
 footer {
   position: fixed;
@@ -48,6 +45,7 @@ footer {
   background-color: black;
   color: white;
   text-align: center;
+  font-size: 0.8em;
 }
 
 header {
