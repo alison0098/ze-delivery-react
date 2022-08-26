@@ -19,7 +19,9 @@ function App() {
         </button>
       </div>
       <footer>
-        <p>Informações de Rodapé</p>
+        <p>ZE SOLUCOES TECNOLOGICAS DE COMERCIO DE BEBIDAS LTDA. - CNPJ: 37.657.197/0001-46 </p>
+        <p>Rua Fradique Coutinho, 1632 - CEP: 05.416-002 </p>
+        <p>Pinheiros - São Paulo/SP</p>
       </footer>
 
     </div>
