@@ -3,7 +3,10 @@ import reactLogo from './assets/react.svg'
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
+
+  function handleChange(){
+    console.log("teste")
+  }
 
   return (
     <div className="App">
@@ -14,9 +17,13 @@ function App() {
       </header>
       <h1>Zé Delivery</h1>
       <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
+      <form>
+            <input
+                type="text"
+                placeholder="First Name"
+                onChange={handleChange}
+            />
+      </form>
       </div>
       <footer>
         <p>ZE SOLUCOES TECNOLOGICAS DE COMERCIO DE BEBIDAS LTDA. - CNPJ: 37.657.197/0001-46 </p>
